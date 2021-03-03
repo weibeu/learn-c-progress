@@ -1,5 +1,7 @@
 {
     "files.associations": {
-        "misc1.C": "cpp"
+        "misc1.C": "cpp",
+        "stdio.h": "c",
+        "math.h": "c"
     }
 }

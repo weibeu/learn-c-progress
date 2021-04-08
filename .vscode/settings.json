@@ -3,6 +3,11 @@
         "misc1.C": "cpp",
         "stdio.h": "c",
         "math.h": "c",
-        "stdlib.h": "c"
+        "stdlib.h": "c",
+        "utils.h": "c",
+        "*.tcc": "c",
+        "string_view": "c",
+        "functional": "c",
+        "cstdio": "c"
     }
 }
